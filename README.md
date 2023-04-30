@@ -1,0 +1,2 @@
+# PESDHC3D3V3U-model
+LTSpice "PESDHC3D3V3U" model 
