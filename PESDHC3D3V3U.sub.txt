@@ -1,0 +1,4 @@
+.SUBCKT PESDHC3D3V3U 1 2
+Dz1 1 2 DzModel
+.model DzModel D(BV=5 Cjo=280p Is=1e-6 Rs=1)
+.ENDS PESDHC3D3V3U
